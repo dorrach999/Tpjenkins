@@ -45,5 +45,5 @@
 2. choose Git as SCM and then put your git repository that contains the Jenkinsfile.
 
 ## My jenkins projecrts status after building them 
-![Alt Text](./images/screenshot.png)
+![Screenshot](./images/Screenshot.png)
 
