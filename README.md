@@ -16,13 +16,13 @@
    - Choose "FreeStyle Project."
    - Click "OK" to create the project.
 
-###Configure the FreeStyle Project
+### Configure the FreeStyle Project
 
 1. In the FreeStyle project configuration page, under "Source Code Management," configure your SCM (e.g., Git).
 2. Under "Build Triggers," enable "Poll SCM" and set the cron expression to check SCM every 5 minutes (`*/5 * * * *`).
 3. Under "Build," add build steps using shell commands with `echo` for progress messages.
 
-### Step 4: Run the FreeStyle Project
+### Run the FreeStyle Project
 
 1. Click "Save" to save the FreeStyle project configuration.
 2. Click "Build Now" to execute the project.
@@ -30,7 +30,7 @@
 
 ## Part 2: Pipeline Project
 
-###Create a Pipeline Project
+### Create a Pipeline Project
 
 1. Go back to the Jenkins dashboard.
 2. Click "New Item."
